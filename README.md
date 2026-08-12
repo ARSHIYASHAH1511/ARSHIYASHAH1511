@@ -40,13 +40,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARSHIYASHAH1511&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARSHIYASHAH1511&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARSHIYASHAH1511&theme=tokyonight&hide_border=true" width="60%" />
 </p>
-
 
 
 ### 🐍 Live Contribution Snake (animates & eats your commit graph)
