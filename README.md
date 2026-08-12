@@ -28,7 +28,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,flutter,dart,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,github&theme=dark" />
 </p>
 
 ---
@@ -37,11 +37,6 @@
 [![LabEx Profile](https://img.shields.io/badge/LabEx-View%20Profile-2FA4FF?style=for-the-badge&logo=linux&logoColor=white)](https://labex.io/u/sarshiyashah-25iot-86373925)
 
 ---
-
-### 🃏 Trophy Room
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARSHIYASHAH1511&theme=algolia&no-frame=true&margin-w=12&row=1&column=7" />
-</p>
 
 ---
 
@@ -52,9 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARSHIYASHAH1511&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARSHIYASHAH1511&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+
 
 ### 🐍 Live Contribution Snake (animates & eats your commit graph)
 <p align="center">
