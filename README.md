@@ -43,9 +43,8 @@
 ### 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARSHIYASHAH1511&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ARSHIYASHAH1511&show_icons=false&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,commits,prs,issues,contribs&rank_icon=percentile" width="60%" />
 </p>
-
 
 ### 🐍 Live Contribution Snake (animates & eats your commit graph)
 <p align="center">
