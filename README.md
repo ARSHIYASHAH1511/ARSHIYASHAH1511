@@ -78,6 +78,7 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -89,12 +90,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARSHIYASHAH1511&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
+### 🐍 Contribution Snake (animated)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARSHIYASHAH1511&theme=tokyo-night&hide_border=true" width="90%" />
+  <img src="https://raw.githubusercontent.com/ARSHIYASHAH1511/ARSHIYASHAH1511/output/github-contribution-grid-snake.svg" width="90%" />
 </p>
 
 ---
-
 ### 🚀 Featured Projects
 
 | Project | What it does |
