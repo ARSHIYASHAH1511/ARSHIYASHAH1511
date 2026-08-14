@@ -36,7 +36,6 @@
 ### 🏆 LabEx
 [![LabEx Profile](https://img.shields.io/badge/LabEx-View%20Profile-2FA4FF?style=for-the-badge&logo=linux&logoColor=white)](https://labex.io/u/sarshiyashah-25iot-86373925)
 
----
 
 ---
 <h1 align="center">Hi 👋, I'm Arshiya Shah</h1>
