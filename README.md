@@ -105,13 +105,7 @@
 
 ---
 
-### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-url)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ARSHIYASHAH1511&color=00C4FF&style=for-the-badge" alt="profile views"/>
-</p>
 
 ### 🚀 Featured Projects
 
